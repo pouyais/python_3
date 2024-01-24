@@ -42,6 +42,6 @@ btn_l.place(x= 360,y= 200)
 
 btn_negetive = Button(root,text= '-',font= 'arial 20',command= lessen_size)
 btn_negetive.place(x=420,y=200)
-print('***********')
+print('============')
 
 root.mainloop()
