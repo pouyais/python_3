@@ -27,7 +27,7 @@ def left():
 
 
 
-
+# salap
 # ========= label ========
 lbl_wel = Label(root,text= 'welcome',fg= 'red',font=f'arial {x} bold' , bg= 'yellow')
 lbl_wel.place(x= x1,y= 100)
